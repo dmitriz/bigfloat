@@ -1,6 +1,6 @@
 {
   "name": "bigfloat",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Fast arbitrary precision math library for computational geometry.",
   "main": "dist/bigfloat.js",
   "typings": "dist/bigfloat.d.ts",
@@ -24,6 +24,6 @@
     "gmp"
   ],
   "devDependencies": {
-    "typescript": "^1.8.0-dev.20151204"
+    "typescript": "~1.8.7"
   }
 }
